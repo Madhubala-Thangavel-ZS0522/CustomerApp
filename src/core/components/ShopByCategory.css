@@ -1,0 +1,39 @@
+.card-group {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.card {
+  border-left: 1px solid black;
+  margin-left: 10px;
+  font-style: Sans, SemiBold;
+}
+
+.card:first-child {
+  border-top: none;
+  border-bottom: none;
+}
+
+.card:not(:first-child) {
+  border-top: none;
+  border-bottom: none;
+}
+
+.card:last-child {
+  border-right: none;
+}
+
+.view-all {
+  color: #ce1126;
+  margin-bottom: 50px;
+}
+.card-value {
+  margin-bottom: 20px;
+}
+
+.view-all-categories {
+  width: 100%;
+  text-align: center;
+  background-color: #80b435;
+  margin-bottom: 10px;
+}
