@@ -1,0 +1,48 @@
+{
+  "categories": [
+    {
+      "name": "Diary",
+      "items": ["Milk", "Butter", "Cheese"],
+      "route": "Diary"
+    },
+    {
+      "name": "Poultry",
+      "items": ["Milk", "Butter", "Cheese"],
+      "route": "Poultry"
+    },
+    {
+      "name": "Sea food",
+      "items": ["Shrimps", "Fish", "Lobster"],
+      "route": "sea food"
+    },
+    {
+      "name": "Vegetables",
+      "items": ["Leafy", "Roofs", "Seasoning"],
+      "route": "Vegetables"
+    },
+    {
+      "name": "Fresh Fruits",
+      "items": ["Apples", "Citrus", "Exotic"],
+      "route": "fresh fruits"
+    },
+    {
+      "name": "Flowers",
+      "items": ["Roses", "Blue and Blush", "Festive"],
+      "route": "flowers"
+    }
+  ],
+  "images": [
+    { "id": 1, "url": "/assets/Diary.png", "title": "Diary" },
+    { "id": 2, "url": "/assets/poultry.png", "title": "Poultry" },
+    { "id": 3, "url": "/assets/Sea Food.png", "title": "SeaFood" },
+    { "id": 4, "url": "/assets/Vegetables.png", "title": "Vegetables" },
+    { "id": 5, "url": "/assets/Fresh Fruits.png", "title": "Fresh Fruits" },
+    { "id": 6, "url": "/assets/Flowers.png", "title": "Flowers" },
+    { "id": 7, "url": "/assets/Herbs.png", "title": "Herbs" },
+    { "id": 8, "url": "/assets/Seasoning.png", "title": "Seasoning" },
+    { "id": 9, "url": "/assets/Diary.png", "title": "Dates" },
+    { "id": 10, "url": "/assets/poultry.png", "title": "Honey" },
+    { "id": 11, "url": "/assets/Fresh Fruits.png", "title": "Fresh Fruits" },
+    { "id": 12, "url": "/assets/Vegetables.png", "title": "Vegetables" }
+  ]
+}
